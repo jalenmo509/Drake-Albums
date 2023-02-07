@@ -1,0 +1,44 @@
+body {
+    color:  darkslategray;
+    background-color: black;
+    font-family:fantasy;
+    text-align: center;
+}
+
+.wrapper {
+    width: 720px;
+    margin: 0px auto;
+}
+
+.header {
+    margin: 40px 0px 20px 0px;
+}
+
+.entry {
+    width: 200px;
+    float: left;
+    margin: 10px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+figure {
+    display: block;
+    width: 200px;
+    height: 175px;
+    background-color: darkslategray;
+    margin: 0px;
+    padding: 9px;
+    align-content: center;
+}
+
+figure img {
+    width: 165px;
+    height: 165px;
+    border: 2px solid black;
+}
+
+figcaption {
+    margin: auto 0px;
+}
